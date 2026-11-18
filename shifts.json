@@ -1,6 +1,14 @@
 
 {
   "version": 1,
+
+  "power_settings": {
+    "power_1_time": 6.4,
+    "power_2_time": 5.6,
+    "power_3_time": 2.3,
+    "power_4_time": 0.6
+  },
+
   "shifts": {
     "1": {
       "intro_label": "SHIFT 1",
@@ -18,6 +26,7 @@
       "ceiling_vent_chance": 30.0,
       "hallway_hit_interval": 2.0
     },
+
     "2": {
       "intro_label": "SHIFT 2",
       "difficulty": 1.4,
@@ -34,6 +43,7 @@
       "ceiling_vent_chance": 29.0,
       "hallway_hit_interval": 1.3
     },
+
     "3": {
       "intro_label": "SHIFT 3",
       "difficulty": 1.75,
@@ -50,6 +60,7 @@
       "ceiling_vent_chance": 27.5,
       "hallway_hit_interval": 0.8
     },
+
     "4": {
       "intro_label": "SHIFT 4",
       "difficulty": 2.0,
