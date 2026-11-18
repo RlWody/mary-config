@@ -5,7 +5,7 @@
     "1": {
       "intro_label": "SHIFT 1",
       "difficulty": 1.0,
-      "starting_money": 7.0,
+      "starting_money": 9999.0,
       "allowed_monsters": ["Yellow", "Green"],
       "temperature_min_requests": 2,
       "temperature_max_requests": 6,
